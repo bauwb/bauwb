@@ -4,7 +4,7 @@ Always on a mission to break boundaries with **creative digital strategies, bold
 
 Founder & owner of **Spacekraft**, a multidisciplinary digital agency helping ambitious brands grow in a complex digital landscape.
 
-I strategize, design, market and build — from **digital campaigns and brands to websites and digital products**.
+I strategize, design, market and build. From **digital campaigns and brands to websites and digital products**.
 
 Founded, built & successfully sold a digital media startup.
 
