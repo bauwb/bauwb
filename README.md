@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @bauwb
-- 👀 I’m interested in Webdesign, Digital Marketing
-- 🌱 I’m currently learning Frontend Languages
-- 📫 How to reach me bob@spacekraft.be
+# 👋 Hi, I’m Bob
 
-<!---
-bauwb/bauwb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Always on a mission to break boundaries with **creative digital strategies, bold design & technology**.
+
+Founder & owner of **Spacekraft**, a multidisciplinary digital agency helping ambitious brands grow in a complex digital landscape.
+
+I strategize, design, market and build — from **digital campaigns and brands to websites and digital products**.
+
+Founded, built & successfully sold a digital media startup.
+
+Lecturer in **Digital Marketing** at PXL Hogeschool.
+
+**Direct and honest advice. Shoot.**
+
+> https://tinrate.com/u/bobvdh
